@@ -1,0 +1,2 @@
+Thompson sampling, one armed bandits, and the Beta distribution:
+https://www.youtube.com/watch?v=nkyDGGQ5h60

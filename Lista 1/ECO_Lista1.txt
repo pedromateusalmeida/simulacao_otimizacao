@@ -1,0 +1,25 @@
+Lista 1
+Lista 1 - Estatística Computacional e Otimização - Prof. Luiz Duczmal - Data de entrega: 29/05/22 
+
+
+(1) Faça uma simulação do preenchimento de um album de n figurinhas, conforme visto em aula. Obtenha uma caracterização empírica da média da variável aleatória C(n) que indica o número de figurinhas compradas para se conseguir preencher um álbum de n figurinhas. Calcule os valores da média de C(n) obtidos por um grande número de simulações, para vários valores de n, e compare com a média teórica de C(n) em função de n, e a aproximação por logaritmo com constante de Euler, conforme deduzido em sala. Faça um gráfico.
+
+Refaça o problema do álbum, supondo agora que dois amigos preenchem seus álbuns, podendo trocar figurinhas.
+
+
+
+(2) Faça a simulação de dados do jogo WAR, com n lançamentos dos 6 dados vermelhos e amarelos, e estime as probabilidades p1, p2, p3 e p4 de cada um dos quatro possíveis resultados, conforme visto em aula. Repita ainda m vezes cada conjunto de n simulações de modo a construir empiricamente intervalos de 90% de confiança para cada um dos parâmetros p1, p2, p3 e p4.  
+
+Faça um gráfico.
+
+
+
+(3)  Faça um código em R para simular a retirada aleatória, sem reposição, de uma caixa com 4 bolas azuis, 3 bolas brancas, e 2 bolas cinzas, e conte quantas vezes a última bola azul a ser retirada é a i-ésima bola, para i=1,2,...,9. 
+
+
+
+(4) Faça um código em R para simular o problema do sultão e os dotes das n princesas, conforme visto em aula. Através de simulações para vários valores de n (n=10,20,...,50), calcule os histogramas empíricos das probabilidades de sucesso em função de n (o número de candidatas) e r-1 (o número ótimo de princesas que são descartadas inicialmente), obtidos por um grande número de simulações, e compare com a probabilidade teórica em função de n e r-1, encontrando o valor de r-1 que maximiza a probabilidade de se escolher a princesa com maior dote. Faça um gráfico.
+
+https://en.wikipedia.org/wiki/Secretary_problem
+
+Observação: Envie um relatório em pdf, e SEPARADAMENTE os arquivos dos programas em R que você fez.
